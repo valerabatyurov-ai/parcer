@@ -1,0 +1,47 @@
+teams:
+  team spirit:
+    - spirit
+    - team spirit
+  natus vincere:
+    - navi
+    - natus vincere
+    - na vi
+  manchester united:
+    - man utd
+    - man united
+    - manchester united
+    - fc manchester united
+    - фк манчестер юнайтед
+  liverpool:
+    - liverpool fc
+    - fc liverpool
+    - ливерпуль
+
+leagues:
+  world cup:
+    - chm 2026
+    - championship world
+    - world cup 2026
+    - чемпионат мира
+    - чемпионат мира 2026
+  english premier league:
+    - premier league
+    - england premier league
+    - epl
+    - апл
+    - английская премьер-лига
+
+markets:
+  handicap:
+    - фора
+    - handicap
+  total:
+    - тотал
+    - total
+  individual_total:
+    - индивидуальный тотал
+    - individual total
+  winner:
+    - победа
+    - moneyline
+    - п1 п2
