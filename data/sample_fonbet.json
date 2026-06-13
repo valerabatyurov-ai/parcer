@@ -1,0 +1,50 @@
+{
+  "events": [
+    {
+      "bookmaker": "FONBET",
+      "sport": "football",
+      "league": "World Cup 2026",
+      "home_team": "Manchester United",
+      "away_team": "Liverpool",
+      "start_time": "2026-06-14T19:30:00+05:00",
+      "event_url": "https://fon.bet/example/event/1001",
+      "external_event_id": "fonbet-1001",
+      "markets": [
+        {
+          "market_type": "handicap",
+          "market_name": "Фора",
+          "line": "-7.5",
+          "outcomes": [
+            {
+              "outcome_name": "Manchester United -7.5",
+              "side": "home",
+              "odds": 2.2
+            },
+            {
+              "outcome_name": "Liverpool +7.5",
+              "side": "away",
+              "odds": 1.7
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "market_name": "Тотал",
+          "line": "2.5",
+          "outcomes": [
+            {
+              "outcome_name": "Over 2.5",
+              "side": "over",
+              "odds": 1.95
+            },
+            {
+              "outcome_name": "Under 2.5",
+              "side": "under",
+              "odds": 1.9
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "events": [
+    {
+      "bookmaker": "Winline",
+      "sport": "football",
+      "league": "chm 2026",
+      "home_team": "Man Utd",
+      "away_team": "Liverpool FC",
+      "start_time": "2026-06-14T19:35:00+05:00",
+      "event_url": "https://winline.ru/example/event/2001",
+      "external_event_id": "winline-2001",
+      "markets": [
+        {
+          "market_type": "handicap",
+          "market_name": "Фора",
+          "line": "+7.5",
+          "outcomes": [
+            {
+              "outcome_name": "Man Utd -7.5",
+              "side": "home",
+              "odds": 1.72
+            },
+            {
+              "outcome_name": "Liverpool +7.5",
+              "side": "away",
+              "odds": 2.1
+            }
+          ]
+        },
+        {
+          "market_type": "total",
+          "market_name": "Тотал",
+          "line": "2.5",
+          "outcomes": [
+            {
+              "outcome_name": "Over 2.5",
+              "side": "over",
+              "odds": 1.88
+            },
+            {
+              "outcome_name": "Under 2.5",
+              "side": "under",
+              "odds": 1.96
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
