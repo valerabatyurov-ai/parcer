@@ -17,7 +17,7 @@ from storage.db import Database
 from utils.logging import logger
 
 
-@dataclass(slots=True)
+@dataclass
 class MonitoringApp:
     settings: Settings
     db: Database
